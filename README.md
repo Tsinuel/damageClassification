@@ -1,5 +1,5 @@
 # damageClassification
 
-[1] Data preparation 
+1. Data preparation 
 
-[2] Data preparation 
+2. Data preparation
