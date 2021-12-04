@@ -1,3 +1,17 @@
+
+##############################################################################
+"""
+File name: models.py
+Witten by: Abiy Melaku, Aaron John and Tsinuel Geleta
+Date: Dec 3, 2021
+
+
+This code implements the CNN model architecture in Pythorch. Two models were
+implemented namely 'CNNBN' (CNN model with patch normalization) and 'CNN'.
+
+"""
+##############################################################################
+
 import torch.nn as nn
 
 
