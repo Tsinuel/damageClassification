@@ -1,5 +1,4 @@
 # damageClassification
 
-1. Data preparation 
+Read the [Final Report](./2021-11-30_ece9603_projectReport.pdf) for details about the repository.
 
-2. Data preparation
